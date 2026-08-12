@@ -115,3 +115,27 @@ Properly saving your Username and Passwords to almost any account is vital for o
 
 Finally, you will confirm the licensing, without confirming you can not create your Virtual Machine.
 
+<p align="center">
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/8deb9d9d-0a9f-4b2a-966b-8776f342371a" />
+</p>
+
+<p align="center">
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/7f7c58d2-136d-4bc6-81a2-b10c0dcf3e08" />
+</p>
+
+Next, after confirming licensing, you will click "Networking," this is where we will create our Virtual Network. After clicking this subsection, you will notice "Edit Virtual Network," this enables you to change the name of the new Virtual Network which will be created within our Resource Group.
+
+<p align="center"> 
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/d12f9e95-b5e7-4faa-829a-b1d76aa772c3" />
+</p>
+
+<p align="center"> 
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/802ab1f8-b9ea-4bbb-bfa9-a1b9e31fa05c" />
+</p>
+
+Finally, after renaming our new Virtual Network, after clicking "Review and Create," we can now view both the Virtual Machine and Virtual Network under either section or we can view them both within our Resource Group. 
+
+
+
+
+
