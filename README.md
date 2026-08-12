@@ -26,7 +26,7 @@ Hands-on Microsoft Azure project demonstrating the process of creating a Microso
 3. Create a Resource Group to organize Azure resources.
 5. Create a Storage Account within the Resource Group.
 6. Deploy a Virtual Machine within the Resource Group.
-7. Deploy a Virtual Network. 
+7. Deploy a Virtual Network within the Resource Group.
 8. Connect to the Virtual Machine using Remote Desktop Protocol (RDP).
 9. Verify that the deployed resources are working correctly.
 10. Manage, stop, or delete resources when they are no longer needed.
