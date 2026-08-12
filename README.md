@@ -33,9 +33,9 @@ Hands-on Microsoft Azure project demonstrating the process of creating a Microso
 
 ## Deployment and Configuration Steps
 <p align="center">
-<img width="1800" height="1008" alt="image" src="https://github.com/user-attachments/assets/d1bd6d7b-d63e-4d3f-bec7-88b2c21be475" />
+<img width="1800" height="1100" alt="image" src="https://github.com/user-attachments/assets/d1bd6d7b-d63e-4d3f-bec7-88b2c21be475" />
   <p align="center">
-  <img width="1800" height="1008" alt="image" src="https://github.com/user-attachments/assets/c655b93d-4b73-46f1-a844-efc8125764b4" />
+  <img width="1800" height="1100" alt="image" src="https://github.com/user-attachments/assets/c655b93d-4b73-46f1-a844-efc8125764b4" />
   
 The first step is to visit https://azure.microsoft.com/en-us/free/, you will click "Try Azure for free." Following this step you will then continue to sign in to an already existing account and or create a new one providing access to Microsoft's cloud computing platform. 
 
