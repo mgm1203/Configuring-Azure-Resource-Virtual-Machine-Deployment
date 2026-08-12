@@ -173,4 +173,8 @@ The final steps include verifying that all Azure Resources are successfully crea
 <img width="1920" height="1008" alt="Compute infrastructure - Microsoft Azure - Google Chrome 8_12_2026 5_19_23 AM" src="https://github.com/user-attachments/assets/a5e5f0ed-016e-4806-b97f-8e67b3a0ebd0" />
 </p>
 
-Lastly, the final step in this project of configuring resources is managing them. If you no longer need any of the resources you created, you can simply delete "Resource Group," because we created all of our resources within our Resource Group, they will all delete at once. However, if you simply want to stop, restart, or delete individual resources, you will click the drop down dots as shown and click the appropriate status. 
+Lastly, the final step in this project of configuring resources is managing them. If you no longer need any of the resources you created, you can simply delete "Resource Group," because we created all of our resources within our Resource Group, they will all delete at once. However, if you simply want to stop, restart, or delete individual resources, you will click the drop down dots as shown and click the appropriate status.
+
+# Overall Learning Outcome
+This project provided practical experience with deploying and managing cloud resources in Microsoft Azure. It helped develop an understanding of how cloud computing, virtualization, networking, storage, and remote administration work together in a real-world Azure environment.
+
