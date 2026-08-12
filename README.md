@@ -93,7 +93,7 @@ Next, applying your knowledge in previous segments, you will search and click on
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/0a4c4deb-a061-4c2d-8c04-17120b805578" />
 </p>
 
-Here you will select the appropriate Resource Group which allows us to create the new Virtual Machine within the Resource Group. Followed by this also put the name and region of your Virtual Machine. 
+Here you will select the appropriate Resource Group which allows us to create the new Virtual Machine within the Resource Group. Followed by this, put the name and region of your Virtual Machine. 
 
 <p align="center">
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/93e1a846-6950-4896-81c8-b859c55d4201" />
