@@ -123,7 +123,7 @@ Finally, you will confirm the licensing, without confirming you can not create y
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/7f7c58d2-136d-4bc6-81a2-b10c0dcf3e08" />
 </p>
 
-Next, after confirming licensing, you will click "Networking," this is where we will create our Virtual Network. After clicking this subsection, you will notice "Edit Virtual Network," this enables you to change the name of the new Virtual Network which will be created within our Resource Group.
+Next, after you confirm licensing, you will click "Networking," this is where we will create our Virtual Network. After clicking this subsection, you will notice "Edit Virtual Network," this enables you to change the name of the new Virtual Network which will be created within our Resource Group.
 
 <p align="center"> 
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/d12f9e95-b5e7-4faa-829a-b1d76aa772c3" />
@@ -133,9 +133,44 @@ Next, after confirming licensing, you will click "Networking," this is where we 
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/802ab1f8-b9ea-4bbb-bfa9-a1b9e31fa05c" />
 </p>
 
-Finally, after renaming our new Virtual Network, after clicking "Review and Create," we can now view both the Virtual Machine and Virtual Network under either section or we can view them both within our Resource Group. 
+Finally, after renaming our new Virtual Network, after clicking "Review and Create," we can now view both the Virtual Machine and Virtual Network under either section or we can view them both within our Resource Group.
 
+<p align="center">
+<img width="608" height="325" alt="image" src="https://github.com/user-attachments/assets/3f058f44-523d-449c-b697-c5352746e545" />
+</p>
 
+The next and final resource we will be using involves the implementation of the Virtual Machine we created in order to connect virtually to a Remote Desktop. This specific image refers to Remote Desktop Protocol (RDP) using Windows. 
 
+<p align="center">
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/8600db39-af28-4b7f-afe5-21a1006e7cfd" />
+</p>
 
+After deployment, obtain and copy the Virtual Machine's Public IP Address. This is found by searching either your Resource Group or Virtual Machine you created and clicking on it's name. Under Networking, you will see a visible Public IP Address. 
 
+<p align="center">
+<img width="826" height="520" alt="image" src="https://github.com/user-attachments/assets/01fc32c3-8788-495e-816f-10962c8311bc" />
+</p>
+
+Next, on the Windows search bar, you will search for "Remote Desktop Connection," prompting the needed resource to open.
+
+<p align="center">
+<img width="608" height="325" alt="image" src="https://github.com/user-attachments/assets/9f61c8d1-536e-4910-872c-5c88ae511e52" />
+</p>
+
+Finally, you will enter the copied Public IP Address of the Virtual Machine and administrator credentials created during the Virtual Machine deployment to establish the remote connection.
+
+<p align="center">
+<img width="1920" height="1008" alt="Compute infrastructure - Microsoft Azure - Google Chrome 8_12_2026 5_11_06 AM" src="https://github.com/user-attachments/assets/4bf0aea4-6e52-49d0-ac12-cc9daa25becd" />
+</p>
+
+The final steps include verifying that all Azure Resources are successfully created and are functioning correctly. Individually searching for each created resource works and when specifically searching for your Virtual Machine, it visibly shows you whether a program is running or stopped.
+
+<p align="center">
+<img width="1920" height="1008" alt="Compute infrastructure - Microsoft Azure - Google Chrome 8_12_2026 5_18_52 AM" src="https://github.com/user-attachments/assets/0cd22876-ca52-4749-a6a8-bcd859fa104e" />
+</p>
+
+<p align="center">
+<img width="1920" height="1008" alt="Compute infrastructure - Microsoft Azure - Google Chrome 8_12_2026 5_19_23 AM" src="https://github.com/user-attachments/assets/a5e5f0ed-016e-4806-b97f-8e67b3a0ebd0" />
+</p>
+
+Lastly, the final step in this project of configuring resources is managing them. If you no longer need any of the resources you created, you can simply delete "Resource Group," because we created all of our resources within our Resource Group, they will all delete at once. However, if you simply want to stop, restart, or delete individual resources, you will click the drop down dots as shown and click the appropriate status. 
