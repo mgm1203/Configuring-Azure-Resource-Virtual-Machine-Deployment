@@ -40,7 +40,8 @@ Hands-on Microsoft Azure project demonstrating the process of creating a Microso
 The first step is to visit https://azure.microsoft.com/en-us/free/, you will click "Try Azure for free." Following this step you will then continue to sign in to an already existing account and or create a new one providing access to Microsoft's cloud computing platform. 
 
 <h1 align="center">
-  <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/53ed4c59-fea8-49b1-b62b-e7cb8a42bc46" />
+ <img width="1678" height="777" alt="Editing Password-Resetting-and-Account-Unlocking-in-Active-Directory_README md at main · mgm1203_Password-Resetting-and-Account-Unlocking-in-Active-Directory - Google Chrome 8_14_2026 3_45_05 AM" src="https://github.com/user-attachments/assets/7495b2db-3230-47cb-9228-afa334844fdf" />
+
 </h1>
 
 Next, you will go to [https://portal.azure.com](https://portal.azure.com), which is known as the Azure Portal. The Azure Portal provides a graphical interface for creating, configuring, and managing Azure resources.
